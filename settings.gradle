@@ -1,0 +1,2 @@
+include ':app', ':filechooserlibrary', ':NativeFiltersLibrary'
+include ':openCVLibrary310'

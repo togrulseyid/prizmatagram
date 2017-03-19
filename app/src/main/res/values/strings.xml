@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">PrizmaTagram</string>
+    <string name="action_next">Next</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_save">Save</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_original">Original</string>
+
+    <!-- Messages -->
+    <string name="message_action_saved">Saved</string>
+    <string name="message_action_applied">Applied</string>
+
+    <!-- BITMAP-->
+    <string name="error_img_not_found">Oops! please try again.</string>
+
+    <string name="internal_storage">Internal storage</string>
+    <string name="error_apply_effect">Oops! please try again.</string>
+
+    <string name="please_wait">Please wait</string>
+    <string name="exit_prompt">Are you sure that you want to close editor?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="no_media">Error: your SD-Card is not available.</string>
+
+    <string name="saved">Please find your image at:\n:url:"</string>
+    <string name="save_failed">Oops! please try again.</string>
+
+    <string name="redL">Red</string>
+    <string name="greenL">Green</string>
+    <string name="blueL">Blue</string>
+
+    <string name="hue">Hue: :value:\u00B0</string>
+    <string name="sat">Saturation: :value:%</string>
+    <string name="brightness">Brightness: :value:%</string>
+    <string name="contrast">Contrast: :value:</string>
+    <string name="rotate">Angle: :value:\u00B0</string>
+    <string name="flip_v">Horizon.</string>
+    <string name="flip_h">Vertical</string>
+    <string name="red">Red: :value:</string>
+    <string name="green">Green: :value:</string>
+    <string name="blue">Blue: :value:</string>
+    <string name="redP">Red: :value:%</string>
+    <string name="greenP">Green: :value:%</string>
+    <string name="blueP">Blue: :value:%</string>
+    <string name="cdepth">Color Depth: :value:</string>
+
+
+    <string name="effect0">Native</string>
+    <string name="effect1">Native Function</string>
+    <string name="effect2">Dithering</string>
+    <string name="effect3">Mosaic</string>
+    <string name="effect4">Television</string>
+    <string name="effect5">Pixelize</string>
+    <string name="effect6">Oil Paint</string>
+    <string name="effect7">Water Filter</string>
+    <string name="effect8">Fish Eye</string>
+    <string name="effect9">Pixelate</string>
+    <string name="effect10">Flip</string>
+    <string name="effect11">Mirror</string>
+    <string name="effect12">Gray Style</string>
+    <string name="effect13">Relief Style</string>
+    <string name="effect14">Average Blur</string>
+    <string name="effect15">Oil Style</string>
+    <string name="effect16">Neon Style</string>
+    <string name="effect17">Pixelate</string>
+    <string name="effect18">Tv Style</string>
+    <string name="effect19">Invert</string>
+    <string name="effect20">Block Style</string>
+    <string name="effect21">Old Style</string>
+    <string name="effect22">Sharpen</string>
+    <string name="effect23">Light Style</string>
+    <string name="effect24">Lomo Style</string>
+    <string name="effect25">Hdr Style</string>
+    <string name="effect26">Blur</string>
+    <string name="effect27">Soft Glow</string>
+    <string name="effect28">Sketch Style</string>
+    <string name="effect29">Motion Blur</string>
+    <string name="effect30">Gotham</string>
+    <string name="effect31">Stylization</string>
+
+    <!--<string name="effect1">Brightness</string>-->
+    <!--<string name="effect2">Flip</string>-->
+    <!--<string name="effect3">Hue</string>-->
+    <!--<string name="effect4">Tint</string>-->
+    <!--<string name="effect5">Gamma</string>-->
+    <!--<string name="effect6">Invert</string>-->
+    <!--<string name="effect7">Grayscale</string>-->
+    <!--<string name="effect8">Sepia</string>-->
+    <!--<string name="effect9">Sharpen</string>-->
+    <!--<string name="effect10">Gau. Blur</string>-->
+    <!--<string name="effect11">C. Filter</string>-->
+    <!--<string name="effect12">C. Depth</string>-->
+    <!--<string name="effect13">Emboss</string>-->
+    <!--<string name="effect14">Boost</string>-->
+    <!--<string name="effect15">Noise</string>-->
+    <!--<string name="effect16">Sketch</string>-->
+    <!--<string name="effect17">Vignette</string>-->
+    <!--<string name="effect18">Saturation</string>-->
+    <!--<string name="effect19">Contrast</string>-->
+
+
+
+
+
+    <!--&lt;!&ndash; App ID &ndash;&gt;-->
+    <!--<string name="app_id">ca-app-pub-3000464978985034~7289341671</string>-->
+    <!--&lt;!&ndash; Ad unit id. &ndash;&gt;-->
+    <!--<string name="ad_unit_id">ca-app-pub-3000464978985034/8766074875</string>-->
+
+    <!--This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <!--Replace with your own ad unit id. -->
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!--App ID -->
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "620401479586",
+    "firebase_url": "https://prizmatagram.firebaseio.com",
+    "project_id": "prizmatagram",
+    "storage_bucket": "prizmatagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620401479586:android:3650deb3b31b5f29",
+        "android_client_info": {
+          "package_name": "com.togrulseyid.prizmatagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620401479586-1hvtuil8o4mk59s91dcsudl6bsj1ccoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPtZyWkDhR2s02iH75h05bPQPZOlDXwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
